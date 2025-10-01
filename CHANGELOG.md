@@ -15,6 +15,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Dart project localization bridge support for Flutter app
 - LocalizationsDelegate class now has **class_name** prefix - [Issue #136](https://github.com/localizely/intl_utils/issues/136)
 
+## 2.8.12 - 2025-09-10
+
+- Update `analyzer` dependency
+
+- Update `mockito` dependency
+
 ## 2.8.11 - 2025-07-07
 
 - Update `petitparser` dependency
