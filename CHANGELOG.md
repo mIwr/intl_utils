@@ -8,16 +8,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## 2.9.2 - 2025-12-28
 
 - Sync with upstream [commit](https://github.com/localizely/intl_utils/commit/07766ee513663629261a8823e672d6981734d66c)
+- Sync with upstream [commit](https://github.com/localizely/intl_utils/commit/643415f29ab3be3bded6430ed99b64864bae8c31)
 
 ## 2.9.1 - 2025-07-16
 
-- Sync with upstream [commit](https://github.com/mIwr/intl_utils/commit/d711b94ebf7267274c3d5aa91b51fb6e1fb45811)
+- Sync with upstream [commit](https://github.com/localizely/intl_utils/commit/d711b94ebf7267274c3d5aa91b51fb6e1fb45811)
+
 
 ## 2.9.0 - 2025-06-02
 
 - Dart project localization generate support
 - Dart project localization bridge support for Flutter app
 - LocalizationsDelegate class now has **class_name** prefix - [Issue #136](https://github.com/localizely/intl_utils/issues/136)
+
+## 2.8.14 - 2026-02-11
+
+- Update `analyzer` dependency
 
 ## 2.8.13 - 2025-12-05
 
